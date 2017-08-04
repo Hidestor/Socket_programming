@@ -1,5 +1,5 @@
-/*This sample program creates a simple server which prints "Hello to the world of socket programming!!" as soon as the client
-connects to the server*/
+/*This sample program creates a simple TCP server using socket which prints "Hello to the world of socket programming!!"
+as soon as the client connects to the server*/
 
 #include<stdio.h>
 #include<string.h>
